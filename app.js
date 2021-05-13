@@ -42,7 +42,7 @@ const quiz = [
     "Wife & two dogs",
     "Friends",
     "Lots of girlfriends"],
-    correct: "wife & two dogs"
+    correct: "Wife & two dogs"
   }
 ];
 
